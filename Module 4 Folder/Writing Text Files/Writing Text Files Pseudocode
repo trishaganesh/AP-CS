@@ -1,0 +1,13 @@
+/*
+  4.06 Writing Text Files - Pseudocode
+  1) Prompt user to enter the number of trials
+  2) Check if the number of trials is at least 1000 before proceeding
+  3) For each trial, generate random between 1-10 (where 10 represents your chosen
+  animal)
+  4) The trial ends as soon as #10 is generated.
+  5) Record the number of animals observed into a text file.
+  6) Repeat steps 3-5 until each trial is complete.
+  7) An open text file created in Step 5
+  8) Read and add the numbers in each line of the file to compute the total and average
+  9) Print average results
+*/
