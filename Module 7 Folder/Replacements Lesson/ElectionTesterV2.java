@@ -57,6 +57,3 @@ public class ElectionTesterV2 {
         System.out.println("The total number of votes for this election is: " + totalVotes);
     }
 }
-
-
-
