@@ -1,0 +1,20 @@
+------------------------------------------PMR-------------------------------
+
+Student Name: Trisha Ganesh
+
+Purpose of program: 
+
+The purpose of this program is to understand how polymorphism works. For this program, we needed to utilize a static method: ShowCenter, 
+code in the main method, and a for loop or for each loop, looping through each item in the ArrayList. 
+
+------------------------------------------------------------------------------------------------
+
+Area for improvement: 
+
+Initially, I struggled to understand how I could use the ShowCenter method and how I could present all values within the ArrayList 
+without having to individually write code for each of them, making the code longer and harder to understand. 
+
+What I liked: 
+
+I enjoyed understanding how polymorphism works and how this concept is important to understand. 
+I was also able to utilize my knowledge of ArrayLists and for each loops to get the program running. 
