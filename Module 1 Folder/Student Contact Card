@@ -1,1 +1,36 @@
+/**
+ * Purpose: Information about Trisha
+ *
+ * @author Trisha Ganesh
+ * @version August 6, 2020
+ */
+ 
+public class StudentInfoCard
+{
 
+    public static void main(String[] args)
+    {
+        System.out.println("*************************************************************************************************************************");
+        System.out.println("*                                                                                                                       *");
+        System.out.println("*                                               Student Information                                                     *");
+        System.out.println("*                                                                                                                       *");
+        System.out.println("*************************************************************************************************************************");
+        System.out.print("\n");
+        System.out.println("Name: Trisha" + "     Birthday:N/A" + "     Age: N/A");
+        System.out.print("\n");
+        System.out.println("School: N/A" + "     Grade: N/A" + "      Location: N/A");
+        System.out.print("\n");
+        System.out.println("Home Phone: N/A" + "      Cell Phone: N/A");
+        System.out.print("Email: N/A" + "      Availability: 7am - 12pm && 3-5pm PST (Monday-Friday)");
+        System.out.println("\n");
+        System.out.println("Mother's contact Information:");
+        System.out.print("Cell/Home Phone: N/A" + "      Email: N/A");
+        System.out.println("\n");
+        System.out.println("Math courses: Algebra 2/Trigonometry" + " & Precalculus");
+        System.out.print("\n");
+        System.out.println("Programming experience: I took online java courses to write programs to calculate the factorial of a given number, \nto find the area & perimeter of a given shape, and to create a simple calculator.");
+        System.out.print("\n");
+        System.out.println("I am excited to take AP Computer Science because I want to learn Java. With Java, I was able to write cool programs \nand I'm thrilled to master Java so I can have the same level of confidence when programming in any other language.\nIn addition, I plan to major in Computer Science in college and this course will prepare me for the future.\nLastly, mastering these Java concepts will help me every step of the way.");
+
+    }//end of main method
+}//end of class
