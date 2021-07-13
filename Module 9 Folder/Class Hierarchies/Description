@@ -1,0 +1,20 @@
+------------------------------------------PMR-------------------------------
+
+Student Name: Trisha Ganesh
+
+Purpose of program: 
+
+The purpose of this program is to understand class hierarchies and how they were used in this program.
+We have several subclasses that inherit from the other superclasses. The extend keyword is useful when trying to accomplish this. 
+
+------------------------------------------------------------------------------------------------
+
+Area for improvement: 
+
+Initially, I struggled to understand how we can use the "extends" keyword and how it was used to help a subclass "inherit" 
+characteristics from its superclass. 
+
+What I liked: 
+
+I enjoyed understanding how inheritance works and how we could use the extends keyword. 
+Also, the relationship between subclasses and superclasses was an important concept I needed to learn. 
