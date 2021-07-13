@@ -1,8 +1,8 @@
 /**
  * Purpose:  This class defines a Candidate by its name and number of votes.
  *
- * @author < your name >
- * @version < today's date >
+ * @author < Trisha Ganesh >
+ * @version < 6/23/2021 >
  */
 
 public class Candidate
