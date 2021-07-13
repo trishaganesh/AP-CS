@@ -1,0 +1,20 @@
+------------------------------------------PMR-------------------------------
+
+Student Name: Trisha Ganesh
+
+Purpose of program: 
+
+The purpose of this program is to understand how overriding methods in java works. 
+For this program, we needed to utilize a static method: showEffectBoth, add code in the main method, 
+and a for loop or for each loop, looping through each item, similarly to the previous program, in order to attain values. 
+
+------------------------------------------------------------------------------------------------
+
+Area for improvement: 
+
+Initially, I struggled to understand how I could test for equality. Using if-statements seemed like the most viable option. 
+
+What I liked: 
+
+I enjoyed learning more about java, the concept of overriding methods. It is a very important concept that I was able to use for this program. 
+I hope to brush up my skills and learn more concepts going forward. 
