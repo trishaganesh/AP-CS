@@ -1,0 +1,61 @@
+---------------------------------------------------------------------------------------------------
+
+PROJECT TITLE: 02.03: JAVA'S MATH CLASS
+
+PURPOSE OF PROJECT: The purpose of the project is to calculate the hypotenuse of two right triangles using the appropriate math class methods. 
+
+VERSION or DATE: October 31, 2020
+
+HOW TO START THIS PROJECT: We must start by using Math.random() to randomly generate values between 5-23 to determine the sides of our triangles. 
+I casted it to int so the sides are whole numbers. Next, we must use nthPower to determine what power we want to raise our side to. 
+I chose 2 since that is the formula to calculate hypotenuse is a2 + b2 = c2. 
+Therefore, setting the nthPower = 2 will raise whatever value to the second power. 
+Now that we've set what power we want to raise the number to, we must actually raise the power. 
+We can use powValue to determine the value after it has been raised. For example, you can use Math.pow to raise the number to a power. 
+For example, if my side is 4 and I want to raise it to the 2nd power, then I could do Math.pow(4,2). 
+This more efficient than writing 4 * 4. Once you've done all of this, you must do the same for the second side of the triangle. 
+Then, the same for the second triangle. One thing to take away from this is you must use Math.random() to randomly generate values for your sides, 
+nthPower to set a power for your valye, and lastly, Math.pow to raise the value to that power. 
+Finally, once you have added both sides of the triangle (with the Math.pow already complete) you must then use Math.sqrt to find the square root of C 
+after you added A and B. Once, you've used Math.sqrt to calculate the answer after the square root, this is your hypotenuse. 
+
+Note that you must...
+
+use Math.random to find the "randomly generated" values of your triangle sides. 
+
+use nthPower to set a power for your sides
+
+use Math.pow to actually calculate the value of the side after the power is set 
+
+and Math.sqrt to find the square root of the answer you got once you do a2 + b2 
+
+AUTHORS: Trisha Ganesh 
+
+USER INSTRUCTIONS: This project will calculate the hypotenuse of two right triangles. 
+The sides of both triangles are randomly generated using Math.random()
+Next, you must raise whatever value for A and B to 2 because you're trying to use the formula a2 + b2 = c2 
+(formula for calculating the hypotenuse of a right triangle) and use Math.pow to raise it to the second power. 
+You use nthPower to set the power to want to raise the value to but Math.pow is actually raising the value. You need to do this for both sides A and B.
+Next, you add the values of A and B to get the value of C. However, you must use Math.sqrt to square root the answer to get the actual value of C. 
+Once, you've done this, repeat the same process to find the hypotenuse for the 2nd triangle. 
+-------------------------------PMR----------------------------------------
+<+s>: This program allowed me to understand the importance of using Math.random(). 
+Before, I had no clue how to use Math.random in the program and ended up not including it at all. 
+However, with a little patience, I was able to learn what it was used for. 
+I was able to use Math.pow and Math.sqrt to better understand how they can be used in a program to find the hypotenuse of a triangle. 
+I know that I will be able to use it when working with other formulas such as finding the area of a circle. 
+
+<-s>: Overall, the major mistake I made was not including the Math.random() the first time I wrote this program. 
+I was confused at first so I spoke with Mr. Shelton and he gave me some helpful tips on how the Math.random() should be used in this program. 
+When he said "randomly generated numbers" that's when it hit me! I knew what I should've done and how I should've done it. 
+To fix this mistake, I will be sure to reread the directions and ask if there is something confusing that I don't understand. 
+I will be sure to fix this in the future. 
+ 
+Overall, this program was good practice for me to practice java but also for me to review old math concepts such as finding the hypotenuse of a right triangle. 
+I'd say that I enjoyed writing this program even though it might've been frustrating at first. 
+
+What I learned:
+
+I learned that there's in the random number generator there's an inclusive of 5 and an exclusive of 23 meaning that the highest 
+number that will be outputted is 22. What I learned from my mistake is that I needed to set the numbers to 5 and 18 to ensure that
+22 will be the highest number that is outputted. (The highest number up till 23 - not including 23. )
