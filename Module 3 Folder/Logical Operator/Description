@@ -6,7 +6,8 @@ PURPOSE OF PROJECT: The purpose of this program is to calculate the TDEE given t
 
 VERSION or DATE: 2/07/2021
 
-HOW TO START THIS PROJECT: We to display a table to the user and prompt them to enter their activity factor. We will then need to calculate the TDEE = BMR * AF from there. 
+HOW TO START THIS PROJECT: We to display a table to the user and prompt them to enter their activity factor. 
+We will then need to calculate the TDEE = BMR * AF from there. 
 
 AUTHORS: Trisha Ganesh 
 
