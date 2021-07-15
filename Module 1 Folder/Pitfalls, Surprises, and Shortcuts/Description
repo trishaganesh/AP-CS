@@ -20,7 +20,9 @@ USER INSTRUCTIONS: The project will compute the average of the numbers given. 
 It will also print the "Test Grade", "Total Points" and will move to the next test 
 once it has calculated the average. For example, once finished with Test #1 it will
 move to test #2. Hence the increment operator! 
+
 -------------------------------PMR----------------------------------------
+
 <+s>: This program allowed me to understand the use of the increment operator. 
 In addition, I learned how to get the computer to calculate the average of given 
 numbers. 
@@ -34,5 +36,6 @@ Overall, I had fun writing this program because I enjoyed calculating the 
 average of a given set of numbers. With practice, I will be able to effectively 
 write the program with confidence and without hesitation. 
 --------------------------------------------------------------------------
+
 In the future, I will be sure to check for mistakes such as the proper use of
 "\t\t", "\n", println and print, and proper concatenation. 
