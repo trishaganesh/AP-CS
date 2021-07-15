@@ -1,0 +1,28 @@
+---------------------------------------------------------------------------------------------------
+
+PROJECT TITLE: 04.07 Challenge Program
+
+PURPOSE OF PROJECT: The purpose of this project is to create a password generator using random numbers as well as for and while loops.
+
+VERSION or DATE: 2/07/2021
+
+HOW TO START THIS PROJECT: We are supposed to if statements, for and while loops to determine the information. 
+
+AUTHORS: Trisha Ganesh 
+
+USER INSTRUCTIONS:
+
+This project allows for random passcodes to be developed based on the user's options/selections. 
+-------------------------------PMR----------------------------------------
+<+s>: This program helped me utilize the knowledge I gained from 4.03 and 4.06 to actual create a project that solves a problem. 
+
+<-s>: Again, I did run into some issues here and there. however, I was able to overcome the challenges. 
+--------------------------------------------------------------------------
+Understanding how to do this will help me in the future.
+
+ 
+
+ 
+
+I understood how to read and write a file using PrintWriter and inFile.next. 
+In addition, I used if statements and while loops to successful generate random numbers, letters, and characters for the program.
