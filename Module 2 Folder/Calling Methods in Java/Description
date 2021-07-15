@@ -1,0 +1,33 @@
+---------------------------------------------------------------------------------------------------
+
+PROJECT TITLE: 02.09 Calling Methods in Java
+
+PURPOSE OF PROJECT: The purpose of the project is to call methods already provided to perform calculations. 
+
+VERSION or DATE: 2/04/2021
+
+HOW TO START THIS PROJECT: We must call the above methods already provided for us.
+
+For example, 
+
+public static void addTheseTwo(){    System.out.println("Ten plus five equals " + (10 + 5));}   
+is set to print the following: Ten plus five equals 15. 
+
+However, in order for this to happen we must "call" it by calling "addTheTwo" method. 
+In this program, we will have to do the same for multiplication and division. 
+multiplyTheseTwo and divideTheseTwo will need to be called as well. (Lastly, we need to print the statement as well as the answer) 
+
+AUTHORS: Trisha Ganesh 
+
+USER INSTRUCTIONS:
+
+The project will allow us to write code (essentially 3 blocks of code) which will allow us to call the 3 methods already given to us. 
+-------------------------------PMR----------------------------------------
+<+s>: This program allowed me to understand the importance of calling methods inside the main method. 
+Essentially all the calls performed were inside the main method. 
+
+<-s>: Overall, at first, I called three methods in separate main methods which didn't make sense as there is only supposed to be 1 main method.
+All 3 were supposed to be called in the main (1) method. 
+ 
+Overall, this program was a good practice and it definitely helped me understand future concepts. 
+--------------------------------------------------------------------------
